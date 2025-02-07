@@ -42,12 +42,6 @@ Here are some of my noteworthy projects:
 
 - This repository analyzes Instagram user engagement using SQL queries to extract insights into user behavior, marketing effectiveness, and platform trends, aiming to optimize strategies, improve retention, and ensure platform integrity. 
 
-### Project 5 (ongoing): [YouTube Channel Analysis](https://github.com/darshanabk/YouTubeFoodChannelAnalysis)
-<p align="left">
-  <img src="https://github.com/darshanabk/YouTubeFoodChannelAnalysis/blob/main/youtube_icon.png" width="500" height = "250" title="hover text">
-</p>
-
-- This project aims to automate the extraction, analysis, and visualization of YouTube video data to uncover insights into trending topics, top-performing videos, and engagement metrics. The deliverables include a structured dataset, analytical reports, and visualizations that offer actionable insights for content strategy optimization.
 ## Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
