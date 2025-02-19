@@ -42,7 +42,7 @@ Here are some of my noteworthy projects:
 
 - This repository analyzes Instagram user engagement using SQL queries to extract insights into user behavior, marketing effectiveness, and platform trends, aiming to optimize strategies, improve retention, and ensure platform integrity. 
 
-## Skills
+## Skills and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
@@ -55,12 +55,6 @@ Here are some of my noteworthy projects:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Statistics](https://img.shields.io/badge/-Statistics-000000?style=flat&logo=statistics&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
-## Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## Get In Touch
