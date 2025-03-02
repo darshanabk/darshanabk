@@ -61,14 +61,15 @@ Here are some of my noteworthy projects:
 
 - LinkedIn: [Profile](https://linkedin.com/in/darshanabk/)
 
-<!-- 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanabk&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanabk&layout=compact&theme=radical) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanabk&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanabk&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanabk&layout=compact&theme=radical) 
 ![trophy](https://github-profile-trophy.vercel.app/?username=darshanabk&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanabk&theme=radical)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanabk&theme=radical)
-
 -->
+
+
+
 
 
