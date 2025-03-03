@@ -66,8 +66,12 @@ Here are some of my noteworthy projects:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>](https://linkedin.com/in/darshanabk/)
 ##
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanabk&theme=radical)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanabk&layout=compact&theme=radical) 
+
+
+<!-- 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanabk&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanabk&layout=compact&theme=radical) 
 ![trophy](https://github-profile-trophy.vercel.app/?username=darshanabk&theme=radical)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanabk&theme=radical)
 -->
