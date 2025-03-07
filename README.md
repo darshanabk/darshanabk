@@ -9,8 +9,8 @@ Welcome to my personal repository! Here you'll find various projects and contrib
 - 🌱 I’m currently learning and exploring new technologies.
 - 💬 Ask me about data analytics, open-source contributions, and more.
 - 📫 How to reach me: [Email](mailto:darshanabalakannan@gmail.com)
-##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanabk&show_icons=true&theme=radical)
+<!-- ##
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanabk&show_icons=true&theme=radical) -->
 ## Projects
 
 Here are some of my noteworthy projects:
