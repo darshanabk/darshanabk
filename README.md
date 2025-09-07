@@ -1,3 +1,4 @@
+<!-- 
 # Hi there, I'm Darshana 👋
 
 Welcome to my personal repository! Here you'll find various projects and contributions I've made. Feel free to explore and reach out if you have any questions or collaboration ideas.
@@ -9,8 +10,8 @@ Welcome to my personal repository! Here you'll find various projects and contrib
 - 🌱 I’m currently learning and exploring new technologies.
 - 💬 Ask me about data analytics, open-source contributions, and more.
 - 📫 How to reach me: [Email](mailto:darshanabalakannan@gmail.com)
-<!-- ##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanabk&show_icons=true&theme=radical) -->
+ ##
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanabk&show_icons=true&theme=radical) 
 ## Projects
 
 Here are some of my noteworthy projects:
@@ -67,18 +68,127 @@ Here are some of my noteworthy projects:
 
 
 ## Get In Touch
+<!--
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=darshanabk" target="_blank">Follow on LinkedIn</a>
 
+-->
+
+<!--
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>](https://linkedin.com/in/darshanabk/)
 ##
 
 
-<!-- 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanabk&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanabk&layout=compact&theme=radical) 
 ![trophy](https://github-profile-trophy.vercel.app/?username=darshanabk&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanabk&theme=radical)
+
+<!-- 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=darshanabk&theme=radical) 
 -->
+
+
+# 👋 Hi, I'm Darshana Balakannan
+
+Welcome to my professional GitHub repository! Here you'll find a curated collection of data analytics projects and contributions demonstrating my analytical skills, technical expertise, and commitment to delivering actionable insights. Feel free to explore, collaborate, or reach out for opportunities in data analytics.
+
+![Profile views](https://komarev.com/ghpvc/?username=darshanabk&color=blue)
+
+---
+
+## About Me
+
+- 🌱 Passionate data analyst transitioning from Quality Assurance with hands-on experience in SQL, Python, Tableau, and advanced data visualization.
+- 💬 Skilled in data cleaning, statistical analysis, ETL processes, and crafting impactful dashboards that drive business decisions.
+- 🤝 Open to **freelance projects, open-source contributions, volunteering, full-time, part-time, contract roles, and internships** in data analytics.
+---
+
+## Let’s Connect!
+
+I'm **actively open** for collaboration across data analytics roles, including freelance gigs, open-source contributions, volunteering, full-time, part-time, contract engagements, and internships. Whether it’s driving insights, building dashboards, or automating workflows, I’m ready to contribute and grow.
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>](https://linkedin.com/in/darshanabk/) &nbsp;&nbsp; [<img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" height="40" alt="GitHub"/>](https://github.com/darshanabk)&nbsp;&nbsp; [![Email](https://img.icons8.com/ios/40/ffffff/new-post.png)](mailto:darshanabalakannan@gmail.com)
+
+
+ 
+<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>](https://github.com/darshanabk) -->
+
+
+
+---
+
+## Featured Projects
+
+### [Hiring Process Analytics](https://github.com/darshanabk/HiringProcessAnalytics) | [Tableau Dashboard](https://public.tableau.com/views/HiringProcessAnalytics_17383579109830/HiringProcessAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ 
+- Comprehensive analysis of hiring trends, salary distribution, and rejection rates leveraging Excel and Tableau to deliver executive dashboards and key hiring insights for data-driven decisions.
+
+### [IMDB Movie Analysis](https://github.com/darshanabk/IMDBMovieAnalysis) | [Tableau Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/IMDBMovieAnalysis_17383721644000/IMDBMovieAnalysis) 
+ 
+- Explored genre popularity, rating, budget, and revenue correlations with deep data cleaning and statistical visualization using Excel and Tableau.
+
+### [Crop Production Analysis](https://github.com/darshanabk/Crop_Production) | [Tableau Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/CropProductionAnalysis_17334398919360/CropProductionDashboard)
+
+- Analyzed 500K+ Indian agricultural data records (1997–2020) using Python and Tableau, identifying yield trends and seasonal patterns for actionable agricultural forecasting.
+
+### [Instagram User Analysis](https://github.com/darshanabk/InstagramUserAnalysis)  
+ 
+- Conducted advanced SQL-based engagement and marketing analyses to optimize retention strategies and platform integrity.
+
+### [DevOps YouTube Video Trend Analysis](https://github.com/darshanabk/YouTube_Video_Trend_Analysis) | [Streamlit Dashboard](https://devops-youtube-trends.streamlit.app/) 
+- Developed scalable ETL pipelines with Python using YouTube API; applied NLP techniques and built interactive dashboards with Streamlit and Plotly for trend visualization and insights discovery.
+
+### [YouTube Content Summarization Pipeline](https://www.kaggle.com/code/darshanabalakannan/youtube-video-summarization-using-genai) 
+- Engineered a GenAI-powered multi-tier summarization system combining transcript extraction, whisper audio-to-text, and web search fallback; optimized API usage to reduce costs by 70%.
+
+---
+
+## Technical Skills & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-FA5B0F?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+
+---
+
+## GitHub Activity & Metrics
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanabk&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanabk&layout=compact&theme=radical)  
+
+</div>
+
+---
+
+## Support Me
+If you find my projects useful, consider supporting me by sponsoring or endorsing. Thank you!
+
 
 
 
