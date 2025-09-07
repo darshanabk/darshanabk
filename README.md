@@ -125,7 +125,9 @@ Welcome to my professional GitHub repository! Here you'll find a curated collect
 
 I'm **actively open** for collaboration across data analytics roles, including freelance gigs, open-source contributions, volunteering, full-time, part-time, contract engagements, and internships. Whether it’s driving insights, building dashboards, or automating workflows, I’m ready to contribute and grow.
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>](https://linkedin.com/in/darshanabk/) &nbsp;&nbsp; [<img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" height="40" alt="GitHub"/>](https://github.com/darshanabk)&nbsp;&nbsp; [![Email](https://img.icons8.com/ios/40/ffffff/new-post.png)](mailto:darshanabalakannan@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>](https://linkedin.com/in/darshanabk/) &nbsp;&nbsp; [<img src="https://img.icons8.com/ios-filled/50/808080/github.png" width="40" height="40" alt="GitHub"/>](https://github.com/darshanabk)&nbsp;&nbsp;
+[![Email](https://img.icons8.com/ios/40/808080/new-post.png)](mailto:darshanabalakannan@gmail.com)
+
 
 
  
