@@ -155,7 +155,7 @@ I'm **actively open** for collaboration across data analytics roles, including f
  
 - Conducted advanced SQL-based engagement and marketing analyses to optimize retention strategies and platform integrity.
 
-### [DevOps YouTube Video Trend Analysis](https://github.com/darshanabk/YouTube_Video_Trend_Analysis) | [Streamlit Dashboard](https://devops-youtube-trends.streamlit.app/) 
+### [DevOps YouTube Video Trend Analysis](https://github.com/darshanabk/YouTube-Trends) | [Streamlit Dashboard](https://devops-youtube-trends.streamlit.app/) 
 - Developed scalable ETL pipelines with Python using YouTube API; applied NLP techniques and built interactive dashboards with Streamlit and Plotly for trend visualization and insights discovery.
 
 ### [YouTube Content Summarization Pipeline](https://www.kaggle.com/code/darshanabalakannan/youtube-video-summarization-using-genai) 
