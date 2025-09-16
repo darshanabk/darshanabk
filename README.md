@@ -177,7 +177,7 @@ I'm **actively open** for collaboration across data analytics roles, including f
 
 
 ---
-
+<!--
 ## GitHub Activity & Metrics
 <div align="center">
   
@@ -187,7 +187,7 @@ I'm **actively open** for collaboration across data analytics roles, including f
 </div>
 
 ---
-
+-->
 ## Support Me
 If you find my projects useful, consider supporting me by sponsoring or endorsing. Thank you!
 
