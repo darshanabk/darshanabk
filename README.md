@@ -138,7 +138,7 @@ I'm **actively open** for collaboration across data analytics roles, including f
 ---
 
 ## Featured Projects
-
+<!--
 ### [Hiring Process Analytics](https://github.com/darshanabk/HiringProcessAnalytics) | [Tableau Dashboard](https://public.tableau.com/views/HiringProcessAnalytics_17383579109830/HiringProcessAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 - Comprehensive analysis of hiring trends, salary distribution, and rejection rates leveraging Excel and Tableau to deliver executive dashboards and key hiring insights for data-driven decisions.
@@ -154,13 +154,13 @@ I'm **actively open** for collaboration across data analytics roles, including f
 ### [Instagram User Analysis](https://github.com/darshanabk/InstagramUserAnalysis)  
  
 - Conducted advanced SQL-based engagement and marketing analyses to optimize retention strategies and platform integrity.
-
+-->
 ### [YouTube Video Trend Analysis](https://github.com/darshanabk/YouTube-Trends) | [Streamlit Dashboard](https://devops-youtube-trends.streamlit.app/) 
 - Developed scalable ETL pipelines with Python using YouTube API; applied NLP techniques and built interactive dashboards with Streamlit and Plotly for trend visualization and insights discovery.
 
-### [YouTube Content Summarization Pipeline](https://www.kaggle.com/code/darshanabalakannan/youtube-video-summarization-using-genai) 
+<!-- ### [YouTube Content Summarization Pipeline](https://www.kaggle.com/code/darshanabalakannan/youtube-video-summarization-using-genai) 
 - Engineered a GenAI-powered multi-tier summarization system combining transcript extraction, whisper audio-to-text, and web search fallback; optimized API usage to reduce costs by 70%.
-
+-->
 ---
 
 ## Technical Skills & Tools
