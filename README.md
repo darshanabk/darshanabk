@@ -146,11 +146,11 @@ I'm **actively open** for collaboration across data analytics roles, including f
 ### [IMDB Movie Analysis](https://github.com/darshanabk/IMDBMovieAnalysis) | [Tableau Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/IMDBMovieAnalysis_17383721644000/IMDBMovieAnalysis) 
  
 - Explored genre popularity, rating, budget, and revenue correlations with deep data cleaning and statistical visualization using Excel and Tableau.
-
+-->
 ### [Crop Production Analysis](https://github.com/darshanabk/Crop_Production) | [Tableau Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/CropProductionAnalysis_17334398919360/CropProductionDashboard)
 
 - Analyzed 500K+ Indian agricultural data records (1997–2020) using Python and Tableau, identifying yield trends and seasonal patterns for actionable agricultural forecasting.
-
+<!--
 ### [Instagram User Analysis](https://github.com/darshanabk/InstagramUserAnalysis)  
  
 - Conducted advanced SQL-based engagement and marketing analyses to optimize retention strategies and platform integrity.
