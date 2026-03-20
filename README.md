@@ -138,7 +138,7 @@ I'm **actively open** for collaboration across data analytics roles, including f
 ---
 
 ## Featured Projects
-<!--
+
 ### [Hiring Process Analytics](https://github.com/darshanabk/HiringProcessAnalytics) | [Tableau Dashboard](https://public.tableau.com/views/HiringProcessAnalytics_17383579109830/HiringProcessAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  
 - Comprehensive analysis of hiring trends, salary distribution, and rejection rates leveraging Excel and Tableau to deliver executive dashboards and key hiring insights for data-driven decisions.
@@ -146,16 +146,17 @@ I'm **actively open** for collaboration across data analytics roles, including f
 ### [IMDB Movie Analysis](https://github.com/darshanabk/IMDBMovieAnalysis) | [Tableau Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/IMDBMovieAnalysis_17383721644000/IMDBMovieAnalysis) 
  
 - Explored genre popularity, rating, budget, and revenue correlations with deep data cleaning and statistical visualization using Excel and Tableau.
--->
-### [Crop Production Analysis](https://github.com/darshanabk/Crop_Production) | [Tableau Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/CropProductionAnalysis_17334398919360/CropProductionDashboard)
 
-- Analyzed 500K+ Indian agricultural data records (1997–2020) using Python and Tableau, identifying yield trends and seasonal patterns for actionable agricultural forecasting.
-<!--
 ### [Instagram User Analysis](https://github.com/darshanabk/InstagramUserAnalysis)  
  
 - Conducted advanced SQL-based engagement and marketing analyses to optimize retention strategies and platform integrity.
--->
+  
+### [Crop Production Analysis](https://github.com/darshanabk/Crop_Production) | [Tableau Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/CropProductionAnalysis_17334398919360/CropProductionDashboard)
+
+- Analyzed 500K+ Indian agricultural data records (1997–2020) using Python and Tableau, identifying yield trends and seasonal patterns for actionable agricultural forecasting.
+  
 ### [YouTube Video Trend Analysis](https://github.com/darshanabk/YouTube-Trends) | [Streamlit Dashboard](https://devops-youtube-trends.streamlit.app/) 
+
 - Developed scalable ETL pipelines with Python using YouTube API; applied NLP techniques and built interactive dashboards with Streamlit and Plotly for trend visualization and insights discovery.
 
 <!-- ### [YouTube Content Summarization Pipeline](https://www.kaggle.com/code/darshanabalakannan/youtube-video-summarization-using-genai) 
