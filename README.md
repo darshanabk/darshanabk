@@ -154,7 +154,7 @@ I'm **actively open** for collaboration across data analytics roles, including f
   
 ### [Crop Production Analysis](https://github.com/darshanabk/Crop_Production) | [Tableau Dashboard](https://public.tableau.com/app/profile/darshana.b8538/viz/CropProductionAnalysis_17334398919360/CropProductionDashboard)
 
-- Analyzed 500K+ Indian agricultural data records (1997–2020) using Python and Tableau, identifying yield trends and seasonal patterns for actionable agricultural forecasting.
+- Analyzed 19000+ Indian agricultural data records (1997–2020) using Python and Tableau, identifying yield trends and seasonal patterns for actionable agricultural forecasting.
   
 ### [YouTube Video Trend Analysis](https://github.com/darshanabk/YouTube-Trends) | [Streamlit Dashboard](https://devops-youtube-trends.streamlit.app/) 
 
